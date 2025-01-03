@@ -1,6 +1,6 @@
 # Nix日本語コミュニティのロゴ案
 
-![https://github.com/Myxogastria0808/nix-japanese-community-logo-proposal/blob/main/nix-japanese-community-square-white-background.png]
+!(Nix日本語コミュニティのロゴ案)(https://github.com/Myxogastria0808/nix-japanese-community-logo-proposal/blob/main/nix-japanese-community-square-white-background.png)
 
 ## 作成者
 
